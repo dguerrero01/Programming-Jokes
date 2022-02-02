@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3FB4904A27AAE91B004635F8 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FB4904927AAE91A004635F8 /* SwiftyJSON.swift */; };
 		3FD5FC7227A9947600ED5F1C /* Programming_JokesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FD5FC7127A9947600ED5F1C /* Programming_JokesApp.swift */; };
 		3FD5FC7427A9947600ED5F1C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FD5FC7327A9947600ED5F1C /* ContentView.swift */; };
 		3FD5FC7627A9947B00ED5F1C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FD5FC7527A9947B00ED5F1C /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3FB4904927AAE91A004635F8 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 		3FD5FC6E27A9947600ED5F1C /* Programming Jokes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Programming Jokes.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FD5FC7127A9947600ED5F1C /* Programming_JokesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Programming_JokesApp.swift; sourceTree = "<group>"; };
 		3FD5FC7327A9947600ED5F1C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 			children = (
 				3FD5FC7127A9947600ED5F1C /* Programming_JokesApp.swift */,
 				3FD5FC7327A9947600ED5F1C /* ContentView.swift */,
+				3FB4904927AAE91A004635F8 /* SwiftyJSON.swift */,
 				3FD5FC7527A9947B00ED5F1C /* Assets.xcassets */,
 				3FD5FC7A27A9947B00ED5F1C /* Info.plist */,
 				3FD5FC7727A9947B00ED5F1C /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3FB4904A27AAE91B004635F8 /* SwiftyJSON.swift in Sources */,
 				3FD5FC7427A9947600ED5F1C /* ContentView.swift in Sources */,
 				3FD5FC7227A9947600ED5F1C /* Programming_JokesApp.swift in Sources */,
 			);
